@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<spinner type="android"></spinner>
+<spinner type="ios"></spinner>
+<spinner type="ios-small"></spinner>
+<spinner type="bubbles"></spinner>
+<spinner type="circles"></spinner>
+<spinner type="crescent"></spinner>
+<spinner type="dots"></spinner>
+<spinner type="lines"></spinner>
+<spinner type="ripple"></spinner>
+<spinner type="spiral"></spinner>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>spinner-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

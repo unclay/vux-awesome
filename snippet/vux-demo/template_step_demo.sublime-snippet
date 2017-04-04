@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<step v-model="number">
+  <step-item title="步骤1" description="step 1"></step-item>
+  <step-item title="步骤2" description="step 2"></step-item>
+  <step-item title="步骤3" description="step 3"></step-item>
+</step>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>step-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

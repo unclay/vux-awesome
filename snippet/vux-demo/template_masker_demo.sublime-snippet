@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<masker style="border-radius: 2px;" color="F9C90C" :opacity="0.8">
+  <div style="align-text: left;">
+    我在遮罩上面
+  </div>
+  <div slot="content" style="align-text: right;">
+    我在遮罩下面
+  </div>
+</masker>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>masker-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

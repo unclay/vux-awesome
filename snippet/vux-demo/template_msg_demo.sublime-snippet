@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<msg title="操作成功" description="操作成功消息" :buttons="[
+  {
+    type: 'primary',
+    text: 'sure'
+  },
+  {
+    type: 'default',
+    text: 'goback'
+  }
+]" icon="success"></msg>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>msg-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

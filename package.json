@@ -1,0 +1,28 @@
+{
+  "name": "vux-awesome",
+  "version": "2.1.1",
+  "description": "vux-awesome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unclay/vux-awesome.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-components",
+    "weui",
+    "vux",
+    "awesome",
+    "sublime",
+    "snippet",
+    "demo",
+  ],
+  "author": "Clay <wcl58918298@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unclay/vux-awesome/issues"
+  },
+  "homepage": "https://github.com/unclay/vux-awesome#readme"
+}

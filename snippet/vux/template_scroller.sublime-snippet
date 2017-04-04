@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<scroller lock-y :scrollbar-x="false">${1}</scroller>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>scroller</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

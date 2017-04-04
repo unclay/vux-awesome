@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<x-button type="default">${1}</x-button>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>x-button</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

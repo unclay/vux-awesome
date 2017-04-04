@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+<inline-calendar
+  class="inline-calendar-demo"
+  show.sync="true"
+  v-model="value"
+  start-date="2016-04-01"
+  end-date="2020-06-18"
+  :range="false"
+  :show-last-month="true"
+  :show-next-month="true"
+  :highlight-weekend="false"
+  :return-six-rows="true"
+  :hide-header="false"
+  :hide-week-list="false"
+  :replace-text-list="{}"
+  :weeks-list="[]"
+  :render-function="() => {}"
+  :disable-past="false"
+  :disable-future="false">
+</inline-calendar>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>inline-calendar-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<datetime-range title="title" start-date="${1:2017-01-01}" end-date="${2:2017-02-01}" v-model="${3:array}"></datetime-range>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>datetime-range</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

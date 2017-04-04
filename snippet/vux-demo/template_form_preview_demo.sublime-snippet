@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+<form-preview header-label="${1:付款金额}" header-value="${2:¥2400.00}" :body-items="[
+  {
+    label: '商品',
+    value: 'iPhone8'
+  \},
+  {
+    label: '上市时间',
+    value: '2020年9月16日'
+  \},
+  {
+    label: '详细信息',
+    value: '苹果(Apple) iPhone 8 4G手机 金色 公开版(256G ROM)标配'
+  \}
+]" :footer-buttons="[
+  {
+    style: 'default',
+    text: '咨询'
+  \},
+  {
+    style: 'primary',
+    text: '下单'
+  \}
+]"></form-preview>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>form-preview-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

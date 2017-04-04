@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<countdown slot="value" v-model="${1:number}"></countdown>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>countdown</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

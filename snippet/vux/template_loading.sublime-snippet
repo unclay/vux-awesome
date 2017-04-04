@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<loading v-model="${1:boolean}" text="Processing"></loading>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>loading</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

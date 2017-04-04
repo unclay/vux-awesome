@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<x-dialog>${1}</x-dialog>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>x-dialog</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<img width="100" src="https://placekitten.com/800/400" @click="\$refs.previewer.show(0)"/>
+<img width="100" src="https://placekitten.com/1200/900" @click="\$refs.previewer.show(1)"/>
+<previewer :list="[
+  {
+    src: 'https://placekitten.com/800/400',
+    w: 600,
+    h: 400,
+  },
+  {
+    src: 'https://placekitten.com/1200/900',
+    w: 1200,
+    h: 900,
+  }
+]" ref="previewer"></previewer>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>previewer-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>

@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<icon type="success"></icon>
+<icon type="info"></icon>
+<icon type="info-circle"></icon>
+<icon type="warn"></icon>
+<icon type="waiting"></icon>
+<icon type="waiting-circle"></icon>
+<icon type="safe-success"></icon>
+<icon type="safe_warn"></icon>
+<icon type="success-circle"></icon>
+<icon type="success-no-circle"></icon>
+<icon type="circle"></icon>
+<icon type="download"></icon>
+<icon type="cancel"></icon>
+<icon type="search"></icon>
+<icon type="clear"></icon>
+<icon type="success" is-msg></icon>
+<icon type="info" is-msg></icon>
+<icon type="warn" is-msg></icon>
+<icon type="waiting" is-msg></icon>
+<icon type="safe_success" is-msg></icon>
+<icon type="safe_warn" is-msg></icon>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>icon-demo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.vue</scope> -->
+</snippet>
